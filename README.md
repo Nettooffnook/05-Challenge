@@ -6,7 +6,6 @@
     <li><a href="#usage">Usage</a></li>
     <li><a href="#visuals">Visuals</a></li>
     <li><a href="#credits">Credits</a></li>
-    <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
   </ul>
 
@@ -35,8 +34,5 @@
         </li>
     </ul>
   
-  <h2 id="contributing">Contributing</h2>
-  <p>Contributions to the work day scheduler project are welcome! If you find a bug or have an idea for an improvement, feel free to open an issue or submit a pull request.</p>
-
   <h2 id="license">License</h2>
   <p>This project is licensed under the MIT License - see the <a href="LICENSE.md">LICENSE.md</a> file for details.</p>
